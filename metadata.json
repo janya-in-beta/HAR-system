@@ -1,0 +1,10 @@
+{
+  "name": "Human Activity Recognition System",
+  "description": "College project prototype for Human Activity Recognition (HAR) detecting Standing, Sitting, Walking, and Running using Computer Vision, MediaPipe Pose estimation, feature extraction, and real-time classification.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
